@@ -22,7 +22,7 @@ namespace Leet
             .Replace("O", "0")
             .Replace("S", "5");
 
-            Console.Write("\nFrase em Leet Speak: {tradução}");
+            Console.Write($"\nFrase em Leet Speak: {tradução}\n");
             
 
 
