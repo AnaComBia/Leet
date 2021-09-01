@@ -22,8 +22,8 @@ namespace Leet
             .Replace("O", "0")
             .Replace("S", "5");
 
-            Console.Write("\nFrase em Leet Speak: ");
-            Console.WriteLine(tradução);
+            Console.Write("\nFrase em Leet Speak: {tradução}");
+            
 
 
 
