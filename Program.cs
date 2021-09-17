@@ -7,7 +7,7 @@ namespace Leet
         static void Main(string[] args)
         {
             Console.Write("Frase que você quer traduzir para a linguagem leet Speak: ");
-            string tradução = Console.ReadLine()
+            string traducao = Console.ReadLine()
             .Replace("a", "4")
             .Replace("A", "4")
             .Replace("e", "3")
@@ -22,7 +22,7 @@ namespace Leet
             .Replace("O", "0")
             .Replace("S", "5");
 
-            Console.Write($"\nFrase em Leet Speak: {tradução}\n");
+            Console.Write($"\nFrase em Leet Speak: {traducao}\n");
             
 
 
